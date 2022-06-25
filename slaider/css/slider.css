@@ -156,3 +156,11 @@ Settings tags:(p, h2, button)
 	top: 20%;
 	left: 43.45%;
 }
+
+/*====================
+Settings arrow(jQuery)
+======================*/
+
+.slick-next.slick-arrow:before, .slick-prev.slick-arrow:before {
+	color: dimgray;
+}
