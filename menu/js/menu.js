@@ -14,5 +14,8 @@
 const btn = $('.signBtn');
 
 $(".signBtn").on("click", function() {
-    alert("Регистрация");
+    // alert("Регистрация");
+    setTimeout(function() {
+        location.reload()
+    }, 1000);
 })
