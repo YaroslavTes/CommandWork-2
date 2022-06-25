@@ -10,12 +10,12 @@
     position: relative;
 }
 
-.main-description-header {
+.header-slider .main-description-header {
     width: 647px;
     height: 550px;
 }
 
-.description-header {
+.header-slider .main-description-header .description-header {
     position: relative;
     left: 56px;
     top: 140px;
@@ -43,7 +43,6 @@
 .description-header button {
     width: 170px;
     height: 50px;
-    font-family: 'Inter';
     font-style: normal;
     font-weight: 400;
     font-size: 18px;
@@ -53,6 +52,8 @@
     text-decoration: none;
     background: #DCE5E2;
     border-radius: 32px;
+    border: 1px solid #000000;
+    border-radius: 200px;
     cursor: pointer;
 }
 
