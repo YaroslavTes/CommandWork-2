@@ -61,6 +61,10 @@
     top: 0;
 } */
 
+/*===========
+Style sliders block
+=============*/
+
 .rev-slider {
 	width: 1294px;
 	height: 550px;
@@ -68,6 +72,10 @@
 	border-radius: 32px;
 	margin: 0 auto;
 }
+
+/*=================
+Sliders description
+===================*/
 
 .rev-slider .slider h2 {
 	font-family: 'Readex Pro';
@@ -105,6 +113,10 @@
     cursor: pointer;
 }
 
+/*========
+Sliders img
+==========*/
+
 .rev-slider .slider .photo{
 	width: 647px;
 	height: 550px;
@@ -117,7 +129,9 @@
 }
 
 
-
+/*===========================
+Settings tags:(p, h2, button)
+=============================*/
 
 .slider-text-one {
 	width: 647px;
