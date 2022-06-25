@@ -1,13 +1,18 @@
-var button = document.querySelector('.signBtn');
-console.log("button");
+// var button = document.querySelector('.signBtn');
+// console.log("button");
 
-button.onclick = function () {
+// button.onclick = function () {
 
-    alert("Регистрация")
+//     alert("Регистрация")
 
-    setTimeout(function () {
-        location.reload();
-    }, 500)
+//     setTimeout(function () {
+//         location.reload();
+//     }, 500)
 
-}
+// }
 
+const btn = $('.signBtn');
+
+$(".signBtn").on("click", function() {
+    alert("Регистрация");
+})
