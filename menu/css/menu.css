@@ -51,6 +51,8 @@ body {
     border: none;
     font-size: 15px;
     opacity: 0.9;
+    font-family: 'Inter';
+    font-weight: 400;
 }
 
 .header-nav select:hover {
