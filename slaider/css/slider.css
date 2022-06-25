@@ -40,7 +40,7 @@
     color: #000000;
 }
 
-.description-header a {
+.description-header button {
     width: 170px;
     height: 50px;
     font-family: 'Inter';
@@ -51,6 +51,9 @@
     text-transform: capitalize;
     color: #000000;
     text-decoration: none;
+    background: #DCE5E2;
+    border-radius: 32px;
+    cursor: pointer;
 }
 
 .slider-img {
