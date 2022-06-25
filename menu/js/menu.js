@@ -11,6 +11,8 @@
 
 // }
 
+
+/* BUTTON FOR MENU (JQUERY) */
 const btn = $('.signBtn');
 
 $(".signBtn").on("click", function() {
@@ -19,3 +21,4 @@ $(".signBtn").on("click", function() {
         location.reload()
     }, 500);
 })
+
