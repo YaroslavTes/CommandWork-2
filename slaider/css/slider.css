@@ -1,0 +1,61 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@100;200;300&family=Playfair+Display&family=Raleway:ital,wght@0,100;0,200;0,300;0,400;0,700;1,100;1,200;1,300;1,400&display=swap');
+
+.header-slider {
+    width: 1294px;
+    height: 550px;
+    background: #DCE5E2;
+    border-radius: 32px;
+    margin: 0 auto;
+    margin-top: -20px;
+    position: relative;
+}
+
+.main-description-header {
+    width: 647px;
+    height: 550px;
+}
+
+.description-header {
+    position: relative;
+    left: 56px;
+    top: 140px;
+}
+
+.description-header h3{
+    font-family: 'Readex Pro';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 58px;
+    line-height: 70px;
+    color: #000000;
+    margin-bottom: 0;
+}
+
+.description-header p {
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 19px;
+    color: #000000;
+}
+
+.description-header a {
+    width: 170px;
+    height: 50px;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 22px;
+    text-transform: capitalize;
+    color: #000000;
+    text-decoration: none;
+}
+
+.slider-img {
+    position: absolute;
+    right: 0;
+    top: 0;
+}
+
