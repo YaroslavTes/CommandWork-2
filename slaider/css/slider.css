@@ -164,13 +164,13 @@ Settings arrow(jQuery)
 
 .slick-next.slick-arrow:before, .slick-prev.slick-arrow:before {
 	color: dimgray;
-    content: url("img/slider/left.svg");
 }
 
 .slick-prev.slick-arrow:before {
     content: "\2039";
     font-size: 50px;
 }
+
 .slick-next.slick-arrow:before {
     content: "\203A";
     font-size: 50px;
