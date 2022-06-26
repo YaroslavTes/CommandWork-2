@@ -4,7 +4,7 @@ $(function() {
 		arrows: true,
 		dots: true,
 		autoplay: true,
-		autoplaySpeed: 1000,
+		autoplaySpeed: 2000,
 		speed: 2000
 	})
 
